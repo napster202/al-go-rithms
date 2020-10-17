@@ -63,3 +63,4 @@ Clean example implementations of data structures and algorithms written in diffe
     * [CodeWars](https://codewars.com/)
     * [Interviewbit](https://www.interviewbit.com/)
     * [CodingNinja](https://www.codingninjas.com/)
+    * [CodingBlocks](https://codingblocks.com/)
